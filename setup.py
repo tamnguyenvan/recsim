@@ -30,8 +30,8 @@ install_requires = [
     'absl-py',
     'dopamine-rl >= 2.0.5',
     'gin-config',
-    'gym',
-    'numpy',
+    'gym==0.25.2',
+    'numpy==1.17.0',
     'scipy',
     'tensorflow==2.3.0',
 ]
