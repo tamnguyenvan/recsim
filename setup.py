@@ -31,7 +31,7 @@ install_requires = [
     'dopamine-rl >= 2.0.5',
     'gin-config',
     'gym==0.25.2',
-    'numpy==1.17.0',
+    'numpy==1.18.0',
     'scipy',
     'tensorflow==2.3.0',
 ]
