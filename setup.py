@@ -32,7 +32,7 @@ install_requires = [
     'gin-config',
     'gym==0.25.2',
     'numpy==1.18.0',
-    'scipy',
+    'scipy==1.4.1',
     'tensorflow==2.3.0',
 ]
 
