@@ -31,8 +31,8 @@ install_requires = [
     'dopamine-rl >= 2.0.5',
     'gin-config',
     'gym==0.25.2',
-    'numpy==1.18.0',
-    'scipy==1.4.1',
+    'numpy==1.20.0',
+    'scipy==1.5.1',
 ]
 
 recsim_description = (
